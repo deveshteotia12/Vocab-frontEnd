@@ -1,0 +1,30 @@
+.completeDetails{
+    margin: 20px 30px;
+    padding: 5px 8px;
+     
+}
+.wordName{
+    margin-bottom: 20px;
+}
+.completeDetails .dull-Details{
+    margin-bottom: 15px;
+    color: grey;
+}
+.completeDetails .Definition{
+    margin-bottom: 15px;
+    
+}
+.Definition ul{
+    margin-top: 5px;
+    margin-left: 5%;
+}
+.otherDefinition ul{
+    margin-top: 5px;
+    margin-left: 5%;
+}
+
+.otherDefinition{
+    margin-bottom: 15px;
+}
+
+
