@@ -1,0 +1,23 @@
+
+
+.wordContainer{
+    width: 94%;
+    min-height: 5vh;
+    background-color: rgb(231, 231, 231);
+    padding: 20px 25px;
+    border-radius: 3px;
+    border-bottom: 2px solid gray;
+    margin-left: 3%;
+    margin-right: 3%;
+    overflow: hidden;
+}
+
+.wordContainer p{
+   margin-top: 5px;
+}
+
+.ModalClose{
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
